@@ -1,0 +1,197 @@
+*{margin: 0%;}
+#head {
+    background-color: black;
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    cursor: pointer;
+}
+.b {
+    display: flex;
+    list-style: none;
+    margin-left: 15px;
+}
+.b li{
+    margin-left: 15px;
+    cursor: pointer;
+    
+}
+.b  :hover{ border-bottom: solid rgb(216, 16, 16) 1px;
+    font-size: 10px;
+    color: yellow;
+}
+.a :hover { border-bottom: solid yellow ;
+    font-size: 20px;
+    color: red;
+    
+     
+
+}
+#foot{ 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-image: url(./2400x1326_994056.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    height: 100vh
+    
+}
+.d {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: auto;
+    margin-left: 5px; margin-bottom: 5px;
+    text-decoration: solid;
+    font-size: small;
+    text-align: left;
+    text-decoration: none;
+    color: white;
+}
+.z{
+    margin: 10px;
+    padding: 5px;
+    
+
+}
+.z button {
+    background-color: rgb(233, 4, 4);
+    cursor: pointer;
+    border-radius: 10px;
+    border-width: 1px;
+    color: aliceblue;
+    transition-duration: 2s; width: ;
+    
+
+} 
+.z :hover {
+    background-color: rgba(19, 226, 19, 0.911);
+    color: rgb(240, 207, 17);
+    font-family:sans-serif
+    transition: ease ; 
+}
+.j {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 465px;
+    border: 2px solid rgba(128, 128, 128, 0.568);
+    width: 25%;
+    border-radius: 10px;
+    height: 55vh;
+    background-color: rgba(0, 0, 0, 0.575);
+    border-style: none;
+    
+    
+    
+    
+    
+}
+.j input {
+    margin-left: 12px;
+    background-color: rgba(0, 0, 0, 0.521);
+    border-style: none;
+    border-radius: 12px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.575);
+    width: 80%;
+    
+
+}
+.p  { margin-left: 55px;
+    padding: 10px;
+    border-style: none; 
+    margin-right: 12px;
+    margin-left: 30px;
+    width: 50%;
+    margin-left: 30px;
+    
+    
+    
+    
+
+}
+
+
+    .p button {
+        background-color: rgba(255, 0, 0, 0.568);
+         border-radius: 7px;
+         border-style: none;
+         color: white;
+         
+         width: 95%;
+         margin-top: 1px;
+         margin-left: 5px;
+         width: 100%;
+        transition: all ;
+
+    
+    }
+    .p button:hover{  
+        background-color: greenyellow;
+        width: 100%;
+        color: black;
+        
+     transition-duration: 2s;
+     cursor: pointer;
+
+
+
+    }
+    .x input{ size: 3px;
+        text-align: right;
+        margin-left: 10px;
+    }
+
+.t{
+    margin-left: 65px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    
+    
+    
+
+}
+.li input {
+    background-color: rgba(58, 226, 43, 0.384);
+    transition: all;
+    color: rgb(245, 12, 12);
+}
+.li input:hover{
+    background-color: rgba(255, 127, 127, 0.342);
+    transition-duration: 2s;
+    cursor: pointer;
+
+}
+.il input{ background-color: rgba(58, 226, 43, 0.384);
+    transition: all;
+
+}
+.il input:hover { background-color: rgba(255, 127, 127, 0.342);
+    transition-duration: 2s;
+    cursor: pointer;
+
+}
+
+
+.v{
+    font-size: 5%;
+    margin-left: 5px;
+    color: beige;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 60px;
+    
+}
+.v a
+{
+    color: white;
+}
+.u{ font-size: 5%;
+    
+    color: beige;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin-bottom: 30px;
+}
+.u a {
+    color: white;
+    
+}
